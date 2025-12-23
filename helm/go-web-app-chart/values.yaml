@@ -8,7 +8,7 @@ image:
   repository: a7rz/go-web-app-devops
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "20460890935"
+  tag: "20461031903"
 
 ingress:
   enabled: false
